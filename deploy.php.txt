@@ -4,13 +4,13 @@ $repo_dir = 'C:\Website\lputest';
 
 $response='';
 
-	$repo_dir = 'C:\www\dev.venturepact.com';
+
 	$response=$response.' '.$repo_dir;
 	exec('cd ' . $repo_dir);
 	$response=$response.' cd '.$repo_dir;
-	exec('git checkout dev');
+	exec('git checkout master');
 	$response=$response.' git checkout dev ';
-	exec('git pull');
+	exec('git pull origin master');
 	$response=$response.' git pull ';
 
 
