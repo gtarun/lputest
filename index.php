@@ -1,6 +1,7 @@
 shardendu
 why is it not working 
 check log now
+here it goes
 <?php
 	echo '<pre>';
 	exec('git',$out);
