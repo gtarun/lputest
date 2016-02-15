@@ -1,7 +1,5 @@
-shardendu
-why is it not working 
-check log now
-here it goes by tarun
+shardendu its working now
+
 <?php
 	echo '<pre>';
 	// exec('git',$out);
