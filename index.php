@@ -1,5 +1,6 @@
 shardendu
 why is it not working 
+check log
 <?php
 	exec('git',$out);
 	print_r($out);
