@@ -1,3 +1,7 @@
 shardendu
 why is it not working 
-<?php die('changes') ?>
+<?php
+	exec('git pull',$out);
+	print_r($out);
+
+ die('changes') ?>
