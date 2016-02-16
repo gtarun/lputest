@@ -1,11 +1,4 @@
-new changes
-and wha this should come
-new changes 
 
-Ritesh sir
-sadfsd
-
-asjdk
 <?php
 	echo '<pre>';
 	// exec('git',$out);
